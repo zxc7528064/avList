@@ -1,2 +1,2 @@
 # avList
-avList - 杀软进程对应杀软名称
+avList - 進程對應殺軟名稱
